@@ -12,12 +12,11 @@ public final class CalculadoraImpuestos {
         this.totalAFP = 0;
     }
 
-    public double calcularPago(/* No se como poner el parametro */){
+   /* public double calcularPago(){
 
     }
 
     public String mostrarTotales() {
-
-    }
+    }*/
 
 }

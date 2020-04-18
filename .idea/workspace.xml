@@ -54,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587160055770</updated>
       <workItem from="1587160057718" duration="3589000" />
+      <workItem from="1587166483633" duration="1552000" />
     </task>
     <servers />
   </component>
@@ -61,9 +62,25 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="146" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1587162664734">
+    <state x="146" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1587166887449">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="146" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1587162664734" />
+    <state x="146" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1587166887449" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1587168040152">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587168040152" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1587168040152">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1587168040152" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1587168040151">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1587168040151" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1587168040152">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1587168040152" />
   </component>
 </project>
